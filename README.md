@@ -2,4 +2,4 @@
 
 NC2TIF is a specialized data conversion tool designed to transform NetCDF (.nc) files containing PM2.5 (particulate matter) air quality data into GeoTIFF format. Built with a modern, intuitive graphical interface, the tool caters to environmental scientists, GIS analysts, and air quality researchers who need to process PM2.5 data. It supports both single file and batch processing operations, featuring real-time progress tracking, status updates, and the ability to stop conversions mid-process. The tool preserves all essential geospatial information during conversion, ensuring that the resulting GeoTIFF files maintain their spatial reference and data quality. With its user-friendly design and robust error handling, NC2TIF makes the complex task of converting air quality data accessible to users who may not have extensive programming knowledge, while still providing the professional-grade functionality needed for serious data analysis.
 
-![image](https://github.com/user-attachments/assets/f10f02a6-3fd1-44f3-9df5-405d469578cf)
+![image](https://github.com/user-attachments/assets/b2fb6b03-05c2-4c6a-bd3b-b4ab431bd3d3)
